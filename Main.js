@@ -1,5 +1,5 @@
 //Assigning Values
-let myAge = 21;
+let myAge = 12;
 let earlyYears = 2;
 let laterYears = myAge - 2;
 const myName = 'Rakeem BROOMES'.toLowerCase();
