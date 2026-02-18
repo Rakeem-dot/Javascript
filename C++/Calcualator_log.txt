@@ -1,0 +1,2 @@
+Operation: Power, Result: 19683
+Operation: Subtraction, Result: 54
